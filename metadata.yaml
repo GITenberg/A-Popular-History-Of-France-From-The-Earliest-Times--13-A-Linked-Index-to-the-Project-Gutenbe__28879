@@ -39,6 +39,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: Translated by Robert Black.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28879#A-Popular-History-Of-France-From-The-Earliest-Times--13-A-Linked-Index-to-the-Project-Gutenbe_
 gutenberg_issued: '2009-05-19'
 gutenberg_type: Text
 identifiers:
