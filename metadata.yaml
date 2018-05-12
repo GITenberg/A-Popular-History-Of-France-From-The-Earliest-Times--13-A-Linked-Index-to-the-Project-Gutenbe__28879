@@ -1,0 +1,56 @@
+_repo: A-Popular-History-Of-France-From-The-Earliest-Times--13-A-Linked-Index-to-the-Project-Gutenbe__28879
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Neuville, Alphonse Marie de
+    aliases:
+    - Neuville, de
+    - Neuville, A. de (Alphonse)
+    - De Neuville, Alphonse Marie
+    birthdate: 1835
+    deathdate: 1885
+    gutenberg_agent_id: '7311'
+    url: http://www.gutenberg.org/2009/agents/7311
+  translator:
+    agent_name: Black, Robert
+    deathdate: 1915
+    gutenberg_agent_id: '33566'
+    url: http://www.gutenberg.org/2009/agents/33566
+covers:
+- cover_type: archival
+  image_path: 28879-h/files/11951/11951-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, M. (François)
+    - Guizot, Monsieur (François)
+    - Guizot, François Pierre Guillaume
+    - Guizot, Francois Pierre Guillaume
+    - Guisot, M. (François)
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: Translated by Robert Black.
+gutenberg_issued: '2009-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History'
+- !lcsh 'Indexes'
+title: "A Popular History Of France From The Earliest Times\r\nA Linked Index to the\
+  \ Project Gutenberg Editions"
+url: http://www.gutenberg.org/ebooks/28879
